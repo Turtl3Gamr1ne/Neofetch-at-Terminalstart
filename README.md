@@ -1,4 +1,4 @@
-# Neofetch-Systemstartup
+# Neofetch at Terminalstart
 
 !!! WARNING !!! THIS CAN BRICK YOUR INSTALL. PLEASE BACK YOUR INSTALL UP!!!
 
